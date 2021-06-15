@@ -1,0 +1,32 @@
+{
+  "data": {
+    "messageRS": {
+      "saldo": {
+        "accountState": "ACTIVE",
+        "balance": {
+          "overdraftInterestDue": 0,
+          "forwardAvailableBalance": 0,
+          "totalBalance": 4.9496093e7,
+          "lockedBalance": 0,
+          "technicalOverdraftAmount": 0,
+          "overdraftAmount": 0,
+          "holdBalance": 1000,
+          "technicalOverdraftInterestDue": 0,
+          "feesDue": 0,
+          "blockedBalance": 0,
+          "availableBalance": 4.9495093e7
+        },
+        "account": "00100000000008"
+      }
+    },
+    "headerRS": {
+      "msgId": "9eb80cb0-7299-4114-84ef-af9eb130fd4b",
+      "msgIdOrg": "12345",
+      "timestamp": "2021-05-31T19:19:07Z"
+    },
+    "statusRS": {
+      "code": "0",
+      "description": "NO DESCRIPTION ERROR"
+    }
+  }
+}
